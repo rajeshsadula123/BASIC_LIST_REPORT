@@ -1,6 +1,8 @@
 # List Report
 Basic Rap Application List View Report
 
+**Note: This is very basic application without behaviour definition / Metadata file.**
+
 <h3> Step 1: Interface View </h3>
 Create a interface view ZI_CONNECTION_EXMP_01 (Base table /dmo/connection).
 
