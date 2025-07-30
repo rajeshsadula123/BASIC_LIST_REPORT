@@ -1,0 +1,4 @@
+@EndUserText.label: 'Flight Service'
+define service ZUI_CONNECTION_EXMP_01 {
+  expose ZI_CONNECTION_EXMP_01;
+}
